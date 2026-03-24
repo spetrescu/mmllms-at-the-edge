@@ -1,0 +1,51 @@
+sample_index,dataset,config,split,true_label,TV_r3d_18_pred,TV_r3d_18_raw,TV_r3d_18_latency_sec,TV_r3d_18_correct,TV_r3d_18_note,Gemma3n_e2b_it_pred,Gemma3n_e2b_it_raw,Gemma3n_e2b_it_latency_sec,Gemma3n_e2b_it_correct,Gemma3n_e4b_it_pred,Gemma3n_e4b_it_raw,Gemma3n_e4b_it_latency_sec,Gemma3n_e4b_it_correct
+1,nateraw/kinetics-mini,,validation,flying_kite,archery,bungee jumping,0.6995108819683082,0,mapping_failed,flying_kite,flying_kite,15.01664405403426,1,flying_kite,flying_kite,14.933966399985366,1
+2,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.003867416991852224,0,mapping_failed,high_jump,high_jump,0.38991760299541056,1,high_jump,high_jump,0.41157378297066316,1
+3,nateraw/kinetics-mini,,validation,archery,archery,archery,0.003931646991986781,1,,archery,archery,0.26915727596497163,1,archery,archery,0.28375692304689437,1
+4,nateraw/kinetics-mini,,validation,high_jump,archery,pole vault,0.003495245997328311,0,mapping_failed,archery,archery,0.23313834104919806,0,archery,archery,0.31035387801239267,0
+5,nateraw/kinetics-mini,,validation,archery,archery,riding unicycle,0.002939726982731372,1,mapping_failed,archery,archery,0.22972949396353215,1,archery,archery,0.28500587202142924,1
+6,nateraw/kinetics-mini,,validation,marching,marching,marching,0.005584825004916638,1,,marching,marching,0.27424882201012224,1,marching,marching,0.339481420989614,1
+7,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.0060490050236694515,0,mapping_failed,flying_kite,flying_kite,0.33517498400760815,1,flying_kite,flying_kite,0.4319825939601287,1
+8,nateraw/kinetics-mini,,validation,marching,marching,marching,0.004140764998737723,1,,marching,marching,0.31218060600804165,1,marching,marching,0.3447360349819064,1
+9,nateraw/kinetics-mini,,validation,archery,archery,archery,0.005058965005446225,1,,archery,archery,0.27924211701611057,1,archery,archery,0.34494926600018516,1
+10,nateraw/kinetics-mini,,validation,archery,archery,archery,0.005281195044517517,1,,archery,archery,0.27877696801442653,1,archery,archery,0.3518748680362478,1
+11,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.003980856970883906,1,,bowling,bowling,0.2567239479976706,1,bowling,bowling,0.3300434499979019,1
+12,nateraw/kinetics-mini,,validation,marching,marching,marching,0.004858175991103053,1,,marching,marching,0.2584436570177786,1,marching,marching,0.31716754200169817,1
+13,nateraw/kinetics-mini,,validation,archery,archery,archery,0.004230635997373611,1,,archery,archery,0.2749607809819281,1,archery,archery,0.3346032249974087,1
+14,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.006125013984274119,0,mapping_failed,flying_kite,flying_kite,0.32639112300239503,1,flying_kite,flying_kite,0.3854628370027058,1
+15,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.004758114984724671,0,mapping_failed,flying_kite,flying_kite,0.3040934639866464,1,flying_kite,flying_kite,0.35890417196787894,1
+16,nateraw/kinetics-mini,,validation,archery,archery,archery,0.0042081670253537595,1,,archery,archery,0.29353591304970905,1,archery,archery,0.3400139900040813,1
+17,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.004083126957993954,0,mapping_failed,archery,archery,0.27041069499682635,0,high_jump,high_jump,0.42223419301444665,1
+18,nateraw/kinetics-mini,,validation,marching,marching,marching,0.007115883054211736,1,,marching,marching,0.28451573196798563,1,marching,marching,0.35345060797408223,1
+19,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.005746994982473552,0,mapping_failed,flying_kite,flying_kite,0.3361574339796789,1,flying_kite,flying_kite,0.4013096019625664,1
+20,nateraw/kinetics-mini,,validation,archery,archery,archery,0.0030225770315155387,1,,archery,archery,0.30517172295367345,1,archery,archery,0.3455542749725282,1
+21,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.0040327360038645566,0,mapping_failed,high_jump,high_jump,0.33261655701790005,1,high_jump,high_jump,0.4068623369676061,1
+22,nateraw/kinetics-mini,,validation,flying_kite,archery,slacklining,0.003653106978163123,0,mapping_failed,flying_kite,flying_kite,0.29777278896654025,1,flying_kite,flying_kite,0.3724438500357792,1
+23,nateraw/kinetics-mini,,validation,archery,archery,archery,0.008202751982025802,1,,archery,archery,0.33347382699139416,1,archery,archery,0.3409666800289415,1
+24,nateraw/kinetics-mini,,validation,marching,marching,marching,0.003344466967973858,1,,marching,marching,0.31118336698273197,1,marching,marching,0.36052481998922303,1
+25,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.006060654995962977,1,,bowling,bowling,0.28301705297781155,1,bowling,bowling,0.3551475760177709,1
+26,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.005356585024856031,1,,bowling,bowling,0.2942751330556348,1,bowling,bowling,0.30339558399282396,1
+27,nateraw/kinetics-mini,,validation,bowling,archery,washing feet,0.006316813989542425,0,mapping_failed,bowling,bowling,0.2927767739747651,1,bowling,bowling,0.3270600129617378,1
+28,nateraw/kinetics-mini,,validation,archery,archery,ski jumping,0.006044373963959515,1,mapping_failed,archery,archery,0.2796610670047812,1,archery,archery,0.3303811590303667,1
+29,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.005718144995626062,1,,bowling,bowling,0.2962954909889959,1,bowling,bowling,0.3604313310352154,1
+30,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.008080343017354608,1,,bowling,bowling,0.3227657260140404,1,bowling,bowling,0.35133147897431627,1
+31,nateraw/kinetics-mini,,validation,marching,marching,marching,0.0042945960303768516,1,,marching,marching,0.2992454479681328,1,marching,marching,0.36362636799458414,1
+32,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.004113456001505256,0,mapping_failed,flying_kite,flying_kite,0.31886719999602064,1,flying_kite,flying_kite,0.410690133983735,1
+33,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.005468463990837336,1,,bowling,bowling,0.30970247904770076,1,bowling,bowling,0.36965076200431213,1
+34,nateraw/kinetics-mini,,validation,archery,archery,archery,0.003657625988125801,1,,archery,archery,0.29001490701921284,1,archery,archery,0.33814046200132,1
+35,nateraw/kinetics-mini,,validation,marching,marching,marching,0.0059959840145893395,1,,marching,marching,0.2978931000106968,1,marching,marching,0.3273730719811283,1
+36,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.007982202048879117,1,,bowling,bowling,0.313076275982894,1,bowling,bowling,0.35238473798381165,1
+37,nateraw/kinetics-mini,,validation,marching,marching,marching,0.016754365002270788,1,,marching,marching,0.327727361000143,1,marching,marching,0.3728303490206599,1
+38,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.004682356026023626,0,mapping_failed,high_jump,high_jump,0.3833727689925581,1,high_jump,high_jump,0.45541735098231584,1
+39,nateraw/kinetics-mini,,validation,high_jump,archery,pole vault,0.007853802002500743,0,mapping_failed,high_jump,high_jump,0.34953657095320523,1,high_jump,high_jump,0.4180624869768508,1
+40,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.00662271399050951,0,mapping_failed,flying_kite,flying_kite,0.348476851999294,1,flying_kite,flying_kite,0.40590195800177753,1
+41,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.00767720298608765,0,mapping_failed,high_jump,high_jump,0.345020815031603,1,high_jump,high_jump,0.42042910400778055,1
+42,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.005638214992359281,0,mapping_failed,flying_kite,flying_kite,0.35087094898335636,1,flying_kite,flying_kite,0.3938503800309263,1
+43,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.004532555991318077,1,,bowling,bowling,0.30696378101129085,1,bowling,bowling,0.34991474100388587,1
+44,nateraw/kinetics-mini,,validation,marching,archery,mopping floor,0.003982645983342081,0,mapping_failed,marching,marching,0.2858883509761654,1,marching,marching,0.3275041519664228,1
+45,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.005642865027766675,0,mapping_failed,marching,marching,0.28521133202593774,0,marching,marching,0.376648444973398,0
+46,nateraw/kinetics-mini,,validation,marching,marching,marching,0.0053609250462614,1,,marching,marching,0.2897333279834129,1,marching,marching,0.3700819420046173,1
+47,nateraw/kinetics-mini,,validation,flying_kite,archery,flying kite,0.003991196048446,0,mapping_failed,flying_kite,flying_kite,0.35216323798522353,1,flying_kite,flying_kite,0.417806156037841,1
+48,nateraw/kinetics-mini,,validation,bowling,bowling,bowling,0.005068134982138872,1,,bowling,bowling,0.28492597199510783,1,bowling,bowling,0.33932958100922406,1
+49,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.0068468229728750885,0,mapping_failed,high_jump,high_jump,0.3375747830141336,1,high_jump,high_jump,0.39776823500869796,1
+50,nateraw/kinetics-mini,,validation,high_jump,archery,high jump,0.008360723033547401,0,mapping_failed,high_jump,high_jump,0.3422036779811606,1,high_jump,high_jump,0.38794950395822525,1
