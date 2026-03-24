@@ -8,7 +8,7 @@ Navigate to `code/1_object_counting` and follow the instructions in the `README.
 Navigate to `code/2_automatic_speech_recognition` and follow the instructions in the `README.md` file.
 ### 3. `IC` (Image Classication)
 Navigate to `code/3_image_classification` and follow the instructions in the `README.md` file.
-### 4. `AR` (Activity Recognition)
-Navigate to `code/4_activity_recognition` and follow the instructions in the `README.md` file.
+### 4. `AR` (Action Recognition)
+Navigate to `code/4_action_recognition` and follow the instructions in the `README.md` file.
 ### 5. `HD` (Hazard Detection)
 Navigate to `code/5_hazard_detection` and follow the instructions in the `README.md` file.
